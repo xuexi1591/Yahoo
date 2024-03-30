@@ -7,3 +7,6 @@
 
 lxml==3.4.4
 cssselect==0.9.1
+yahoo_fin==0.8.9.1
+pandas==2.2.1
+requests==2.31.0
